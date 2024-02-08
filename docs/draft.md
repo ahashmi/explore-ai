@@ -92,6 +92,7 @@ Utilizing Ontologies to Drive Risk Appropriate Factsheet Generation
 ## Tools & Repos
 
 * protege
+* SPARQL
 * hr github
 * oic github
 
