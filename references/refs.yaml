@@ -1,2 +1,28 @@
 - title: On the Multiple Roles of Ontologies in Explainable AI
+  authors: [Roberto Confalonieri, Giancarlo Guizzardi]
+  doi: "https://doi.org/10.48550/arXiv.2311.04778"
+  published_in: "arxiv: [v1] Wed, 8 Nov 2023"
   filename: 2311.04778.pdf
+- title: "Towards FAIR Explainable AI: a standardized ontology for mapping XAI solutions to use cases, explanations, and AI systems"
+  authors: [Ajaya Adhikari, Edwin Wenink, Jasper van der Waa, Cornelis Bouter, Ioannis Tolios, Stephan Raaijmakers]
+  published_in: "Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments;June 2022;Pages 562-568"
+  doi: "https://doi.org/10.1145/3529190.3535693"
+  filename: 3529190.3535693.pdf
+- title: "Owlready: Ontology-oriented programming in Python with automatic classification and high level constructs for biomedical ontologies"
+  authors: Jean-Baptiste Lamy
+  published_in: "Artificial Intelligence In Medicine 2017;80C:11-28"
+  doi: "https://doi.org/10.1016/j.artmed.2017.07.002"
+  filename: article_owlready_aim_2017.pdf
+- title: Standardizing an Ontology for Ethically Aligned Robotic and Autonomous Systems
+  authors: [Michael A. Houghtaling, Sandro Rama Fiorini, Nicola Fabiano, Paulo J. S. Gonçalves, Ozlem Ulgen, Tamás Haidegger, Joel Luís Carbonera, Joanna Isabelle Olszewska, Brian Page, Zvikomborero Murahwi, Edson Prestes]
+  doi: "https://doi.org/10.1109/TSMC.2023.3330981"
+  published_in: "IEEE Transactions on Systems, Man, and Cybernetics: Systems;30 November 2023;Pages 1-14"
+  filename: Standardizing_an_Ontology_for_Ethically_Aligned_Robotic_and_Autonomous_Systems.pdf
+- title: "Knowledge Graph Empowered Machine Learning Pipelines for Improved Efficiency, Reusability, and Explainability"
+  authors: [Revathy Venkataramanan, Aalap Tripathy, Martin Foltin, Hong Yung Yip, Annmary Justine, Amit Sheth]
+  doi: "https://doi.ieeecomputersociety.org/10.1109/MIC.2022.3228087"
+  published_in: "IEEE Internet Computing;Jan.-Feb. 2023, pp. 81-88, vol. 27"
+  filename: "IEEE-IC-HPE-article.pdf"
+- title: "Role of Ontologies in Enabling AI Transparency"
+  authors: [Revathy Venkataramanan, Aalap Tripathy, Ali Hashmi]
+  url: "https://lfaidata.foundation/blog/2023/09/29/role-of-ontologies-in-enabling-ai-transparency/"
